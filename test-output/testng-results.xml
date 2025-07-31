@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Suite Execution started - Configure the Reports]]>
+    </line>
+    <line>
+      <![CDATA[test Test Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite Execution started - Configure the Reports]]>
+    </line>
+    <line>
+      <![CDATA[createContactWithnameandorg Test Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite Execution started - Configure the Reports]]>
+    </line>
+    <line>
+      <![CDATA[test1 Test Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite Execution started - Configure the Reports]]>
+    </line>
+    <line>
+      <![CDATA[DropdownAndOrgNamePhno Test Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[test1 Test Execution Success]]>
+    </line>
+    <line>
+      <![CDATA[createContactWithnameandorg Test Execution Success]]>
+    </line>
+    <line>
+      <![CDATA[DropdownAndOrgNamePhno Test Execution Success]]>
+    </line>
+    <line>
+      <![CDATA[test Test Execution Success]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-07-30T23:15:38 IST" name="MySuite" finished-at="2025-07-30T23:16:49 IST" duration-ms="70834">
+    <groups>
+    </groups>
+    <test started-at="2025-07-30T23:15:38 IST" name="Test" finished-at="2025-07-30T23:16:49 IST" duration-ms="70834">
+      <class name="optmizedCode.CreateContactAndDate">
+        <test-method signature="test1()[pri:0, instance:optmizedCode.CreateContactAndDate@47eaca72]" started-at="2025-07-30T23:15:38 IST" name="test1" finished-at="2025-07-30T23:16:26 IST" duration-ms="48380" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test1 Test Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[test1 Test Execution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- optmizedCode.CreateContactAndDate -->
+      <class name="optmizedCode.CreatecontactAndOrgame">
+        <test-method signature="createContactWithnameandorg()[pri:0, instance:optmizedCode.CreatecontactAndOrgame@14cd1699]" started-at="2025-07-30T23:15:38 IST" name="createContactWithnameandorg" finished-at="2025-07-30T23:16:29 IST" duration-ms="51490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createContactWithnameandorg Test Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[createContactWithnameandorg Test Execution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithnameandorg -->
+      </class> <!-- optmizedCode.CreatecontactAndOrgame -->
+      <class name="optmizedCode.CreateOrgWithDdtNameAndPhno">
+        <test-method signature="test()[pri:0, instance:optmizedCode.CreateOrgWithDdtNameAndPhno@73a1e9a9]" started-at="2025-07-30T23:15:38 IST" name="test" finished-at="2025-07-30T23:16:49 IST" duration-ms="70765" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test Test Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[test Test Execution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- optmizedCode.CreateOrgWithDdtNameAndPhno -->
+      <class name="optmizedCode.CreateOrgWithDdtNameAndDropDown">
+        <test-method signature="DropdownAndOrgNamePhno()[pri:0, instance:optmizedCode.CreateOrgWithDdtNameAndDropDown@77888435]" started-at="2025-07-30T23:15:38 IST" name="DropdownAndOrgNamePhno" finished-at="2025-07-30T23:16:38 IST" duration-ms="60005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[DropdownAndOrgNamePhno Test Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[DropdownAndOrgNamePhno Test Execution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DropdownAndOrgNamePhno -->
+      </class> <!-- optmizedCode.CreateOrgWithDdtNameAndDropDown -->
+    </test> <!-- Test -->
+  </suite> <!-- MySuite -->
+</testng-results>

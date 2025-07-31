@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:8888/index.php?action=Login&module=Users",
+  "id": "admin",
+  "pass": "tiger",
+  "browser": "chrome",
+  "timeout": 10
+}

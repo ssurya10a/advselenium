@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="2" parallel="true">
+  <test name="Test_contactsModule">
+    <classes>
+      <class name="contacts_Module.SingleExeModule"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test_OrgModule">
+    <classes>
+      <class name="org_Module.SingleOrgExeModule"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
